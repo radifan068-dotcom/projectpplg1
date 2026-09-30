@@ -1,0 +1,21 @@
+header {
+  background-color: silver;
+  text-align: center;
+  padding: 10px;
+  border: 15px;
+}
+nav {
+  background-color: rgb(212, 235, 111);
+  text-align: center;
+  color: aliceblue;
+  padding: 5px;
+  border: 12px;
+}
+main{
+  background-color: dodgerblue;
+  text-align: center;
+}
+footer{
+  background-color: silver;
+  text-align: center;
+}
